@@ -1,0 +1,18 @@
+[project]
+name = "ml-ds-review"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "joblib>=1.5.3",
+    "jupyterlab>=4.6.0",
+    "matplotlib>=3.11.0",
+    "numpy>=1.26.4",
+    "pandas>=2.3.3",
+    "pillow>=12.2.0",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.0",
+    "scipy>=1.17.1",
+    "tensorflow==2.16.2",
+    "xgboost>=3.2.0",
+]
